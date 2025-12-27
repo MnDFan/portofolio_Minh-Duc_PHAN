@@ -220,7 +220,8 @@ souhaite contribuer activement aux missions de gouvernance, gestion des risques 
             </a>
             <a
               className="inline-flex items-center justify-center gap-2 rounded-full border border-slate-950 px-5 py-3 text-sm font-semibold text-slate-950 transition hover:-translate-y-0.5 hover:border-black"
-              href="#"
+              href="/CV.pdf"
+              download="CV_Minh-Duc_PHAN.pdf"
             >
               Télécharger le CV
             </a>
